@@ -1,0 +1,97 @@
+body{
+	margin: 0;
+}
+h1.name_of_page{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 50px;
+}
+
+h2{
+	padding: 0 0 0 54px;
+	text-transform: uppercase;
+
+
+}
+
+p.sttx{
+	text-align: left;
+	width: 60%;
+	padding: 0  0 10px 54px ;
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+}
+a.q{
+	padding:0 0 0 50px ;
+	text-decoration: none;
+}
+.link{
+
+	
+	text-align: center;
+	font-family: veranda,sans-serif;
+	font-size: 20px;
+	color
+}
+a.e:hover{
+	color:black ;
+	background-color: antiquewhite;
+
+}
+a.e:active{
+	color:white;
+	background-color: black;
+}
+.header{
+	margin: 0;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	background-color: white;
+	width: 100%;
+	height: 35px;
+
+}
+
+.button{
+	padding: 7px 1px 5px 850px;
+
+
+}
+.e{
+	text-decoration: none;
+	padding: 7px 2px 11px 2px;
+	font-style: oblique;
+	color: black;
+	font-family: impact;
+	margin: 5px 5px 10px 5px ;
+}
+.logo{
+	margin:-25px 0 0 100px;
+	font-family: impact;
+	font-style: oblique;
+	font-size: 20px;
+	color: black;
+	letter-spacing: 0.1em;
+	/*position: fixed;*/
+}
+.w{
+	margin: 60px 5px 5px 20px;
+	width: 95%;
+	
+}
+ul{
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+}
+.bt_top{
+
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+}
+img{
+	margin:-80px 0 0 550px;
+	padding: 0;
+
+}
